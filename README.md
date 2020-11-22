@@ -1,1 +1,2 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+CRM App created with the follwoing stack:
+- [Active Admin](https://activeadmin.info/documentation.html)
