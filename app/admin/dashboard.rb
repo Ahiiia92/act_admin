@@ -29,11 +29,4 @@ ActiveAdmin.register_page "Dashboard" do
       end
     end
   end # content
-
-    sidebar :help_sidebar do
-      ul do
-        li "Second List First Item"
-        li "Second List Second Item"
-      end
-    end
 end
